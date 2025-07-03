@@ -1,3 +1,9 @@
+#Monte Carlo Actuarial Simulator
+#Version 1.1
+# Author: MDIDickinson
+#Description: Updated header info version tag
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
